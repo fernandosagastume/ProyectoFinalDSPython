@@ -6,6 +6,8 @@ Proyecto de Python Final
 
 This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Can you predict passenger satisfaction?
 
+diferencias significativas en la satisfacción del cliente entre las distintas clases de viaje (Business, Eco, Eco Plus?
+
 ## Contenido
 
 Gender: Gender of the passengers (Female, Male)
