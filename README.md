@@ -1,12 +1,15 @@
 # ProyectoFinalDSPython
 Proyecto de Python Final
 
+## Preguntas Planteadas
+
+1. ¿Cuantos clientes leales tuvieron vuelos satisfactorios?
+2. ¿A qué sexo (masculino y femenino) le costó más agendar un vuelo en línea?
+3. 
 
 ## Contexto
 
 This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Can you predict passenger satisfaction?
-
-diferencias significativas en la satisfacción del cliente entre las distintas clases de viaje (Business, Eco, Eco Plus?
 
 ## Contenido
 
