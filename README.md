@@ -1,60 +1,54 @@
 # ProyectoFinalDSPython
 Proyecto de Python Final
 
-## Preguntas Planteadas
-
-1. ¿Cuantos clientes leales tuvieron vuelos satisfactorios?
-2. ¿A qué sexo (masculino y femenino) le costó más agendar un vuelo en línea?
-3. 
-
 ## Contexto
 
-This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Can you predict passenger satisfaction?
+airline_satisfaction: Este dataset contiene una encuesta de satisfacción de pasajeros de líneas aéreas.
 
 ## Contenido
 
-Gender: Gender of the passengers (Female, Male)
+Gender: Género de los pasajeros (Femenino, Masculino)
 
-Customer Type: The customer type (Loyal customer, disloyal customer)
+Customer Type: el tipo de cliente (cliente fiel, cliente desleal)
 
-Age: The actual age of the passengers
+Age: La edad real de los pasajeros.
 
-Type of Travel: Purpose of the flight of the passengers (Personal Travel, Business Travel)
+Type of Travel: Propósito del vuelo de los pasajeros (Viaje Personal, Viaje de Negocios)
 
-Class: Travel class in the plane of the passengers (Business, Eco, Eco Plus)
+Class: Clase de viaje en el avión de los pasajeros (Business, Eco, Eco Plus)
 
-Flight distance: The flight distance of this journey
+Flight distance: la distancia de vuelo de este viaje
 
-Inflight wifi service: Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)
+Inflight wifi service: Nivel de satisfacción del servicio wifi a bordo (0: No aplicable; 1-5)
 
-Departure/Arrival time convenient: Satisfaction level of Departure/Arrival time convenient
+Departure/Arrival time convenient: nivel de satisfacción de la ubicación de la puerta
 
-Ease of Online booking: Satisfaction level of online booking
+Ease of Online booking: Nivel de satisfacción de la reserva en línea
 
-Gate location: Satisfaction level of Gate location
+Gate location: nivel de satisfacción de la ubicación de la puerta
 
-Food and drink: Satisfaction level of Food and drink
+Food and drink: Nivel de satisfacción de Alimentos y bebidas
 
-Online boarding: Satisfaction level of online boarding
+Online boarding: Nivel de satisfacción del embarque en línea
 
-Seat comfort: Satisfaction level of Seat comfort
+Seat comfort: Nivel de satisfacción de Confort del asiento
 
-Inflight entertainment: Satisfaction level of inflight entertainment
+Inflight entertainment: Nivel de satisfacción del entretenimiento a bordo
 
-On-board service: Satisfaction level of On-board service
+On-board service: Nivel de satisfacción del servicio a bordo
 
-Leg room service: Satisfaction level of Leg room service
+Leg room service: Nivel de satisfacción del servicio del espacio de las piernas
 
-Baggage handling: Satisfaction level of baggage handling
+Baggage handling: Nivel de satisfacción del manejo de equipaje
 
-Check-in service: Satisfaction level of Check-in service
+Check-in service: Nivel de satisfacción del servicio de Check-in
 
-Inflight service: Satisfaction level of inflight service
+Inflight service: Nivel de satisfacción del servicio a bordo
 
-Cleanliness: Satisfaction level of Cleanliness
+Cleanliness: Nivel de satisfacción de Limpieza
 
-Departure Delay in Minutes: Minutes delayed when departure
+Departure Delay in Minutes: Minutos de retraso en la salida
 
-Arrival Delay in Minutes: Minutes delayed when Arrival
+Arrival Delay in Minutes: Minutos de retraso en la llegada
 
-Satisfaction: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
+Satisfaction: Nivel de satisfacción de la aerolínea (Satisfacción, neutral o insatisfacción)
