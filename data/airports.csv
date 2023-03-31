@@ -1,0 +1,1001 @@
+idAirport,airportName,airportCode
+1,Ukhta Airport,UCT
+2,Aleknagik / New Airport,WKK
+3,Guangzhou Baiyun International Airport,CAN
+4,Leipzig/Halle Airport,LEJ
+5,Charleston Air Force Base-International Airport,CHS
+6,Iguatu Airport,QIG
+7,Hope Bay Aerodrome,UZM
+8,Khaneh Airport,KHA
+9,Revelstoke Airport,YRV
+10,Golfito Airport,GLF
+11,Palo Verde Airport,SRL
+12,Seldovia Airport,SOV
+13,Telfer Airport,TEF
+14,Cape Vogel Airport,CVL
+15,Transilvania Târgu Mureş International Airport,TGM
+16,Darchula Airport,DAP
+17,Batavia Downs Airport,BVW
+18,Koltsovo Airport,SVX
+19,Sugar Land Regional Airport,SGR
+20,Governor's Harbour Airport,GHB
+21,Xangongo Airport,XGN
+22,Whistler/Green Lake Water Aerodrome,YWS
+23,Nordholz Naval Airbase,FCN
+24,Kambalda Airport,KDB
+25,Tongliao Airport,TGO
+26,La Primavera Airport,LPE
+27,Mönchengladbach Airport,MGL
+28,Tengchong Tuofeng Airport,TCZ
+29,Guemar Airport,ELU
+30,Ingeniero Alberto Acuña Ongay International Airport,CPE
+31,El Minya Airport,EMY
+32,Hatay Airport,HTY
+33,Augsburg Airport,AGB
+34,London Biggin Hill Airport,BQH
+35,Gitega Airport,GID
+36,South Arkansas Regional At Goodwin Field,ELD
+37,Přerov Air Base,PRV
+38,Seward Airport,SWD
+39,Marakei Airport,MZK
+40,Filadelfia Airport,FLM
+41,Heide-Büsum Airport,HEI
+42,Tolmachevo Airport,OVB
+43,Kapalua Airport,JHM
+44,Big Bear City Airport,RBF
+45,Lake Havasu City Airport,HII
+46,Inverell Airport,IVR
+47,Fuzhou Changle International Airport,FOC
+48,Coromandel Aerodrome,CMV
+49,Aleknagik / New Airport,WKK
+50,Humberto Delgado Airport (Lisbon Portela Airport),LIS
+51,Tsile Tsile Airport,TSI
+52,Raja Haji Fisabilillah International Airport,TNJ
+53,Cochin International Airport,COK
+54,Chelinda Malawi Airport,CEH
+55,Al Thaurah Airport,SOR
+56,Carauari Airport,CAF
+57,Saint-Laurent-du-Maroni Airport,LDX
+58,Rincon De Los Sauces Airport,RDS
+59,Hinthada Airport,HEB
+60,Ontong Java Atoll Airstrip,OTV
+61,Taltheilei Narrows Airport,GSL
+62,Pinar Del Rio Airport,QPD
+63,Bulgan Airport,UGA
+64,Fillmore Municipal Airport,FIL
+65,General Abelardo L. Rodríguez International Airport,TIJ
+66,Bali Airport,BLC
+67,Tabriz International Airport,TBZ
+68,Kyauktu Airport,KYT
+69,Tri-Cities Regional TN/VA Airport,TRI
+70,Robe Airport,GOB
+71,Erzurum International Airport,ERZ
+72,Toledo Executive Airport,TDZ
+73,Zanjan Airport,JWN
+74,Dobbins Air Reserve Base,MGE
+75,Ibo Airport,IBO
+76,Rosecrans Memorial Airport,STJ
+77,Paramakatoi Airport,PMT
+78,Nadzab Airport,LAE
+79,Vagar Airport,FAE
+80,Antrim County Airport,ACB
+81,Tribhuvan International Airport,KTM
+82,Tawa Airport,TWY
+83,Charlottesville Albemarle Airport,CHO
+84,Chelinda Malawi Airport,CEH
+85,Khark Island Airport,KHK
+86,Marble Bar Airport,MBB
+87,Williams Harbour Airport,YWM
+88,Monkey Mountain Airport,MYM
+89,Maota Airport,MXS
+90,Saidu Sharif Airport,SDT
+91,Olbia Costa Smeralda Airport,OLB
+92,Sywell Aerodrome,ORM
+93,Kokoda Airport,KKD
+94,Chubu Centrair International Airport,NGO
+95,Tanah Merah Airport,TMH
+96,Kavalerovo Airport,KVR
+97,Pelaneng Airport,PEL
+98,Scatsta Airport,SCS
+99,Orenburg Central Airport,REN
+100,Rangiroa Airport,RGI
+101,Lubumbashi International Airport,FBM
+102,Manakara Airport,WVK
+103,General Bartolome Salom International Airport,PBL
+104,Peenemünde Airport,PEF
+105,Cherrabun Airport,CBC
+106,Tobago-Crown Point Airport,TAB
+107,Bowerman Airport,HQM
+108,Moree Airport,MRZ
+109,Vanrook Station Airport,VNR
+110,Rarotonga International Airport,RAR
+111,Phan Thiet Airport,PHH
+112,Basanth Nagar Airport,RMD
+113,Omega Airport,OMG
+114,La Tontouta International Airport,NOU
+115,Cochise County Airport,CWX
+116,Wiley Post Airport,PWA
+117,Hector International Airport,FAR
+118,Robinvale Airport,RBC
+119,Lucapa Airport,LBZ
+120,Joliet Regional Airport,JOT
+121,Aba Tenna Dejazmach Yilma International Airport,DIR
+122,Port Simpson Seaplane Base,YPI
+123,Parasi Airport,PRS
+124,Mili Island Airport,MIJ
+125,Palenque International Airport,PQM
+126,Sault Ste Marie Airport,YAM
+127,Marina Municipal Airport,OAR
+128,Tanjung Harapan Airport,TJS
+129,Vila Bela da Santíssima Trindade Airport,MTG
+130,Kotlik Airport,KOT
+131,Solapur Airport,SSE
+132,Madang Airport,MAG
+133,Cangamba Airport,CNZ
+134,Xingyi Airport,ACX
+135,Syracuse Hancock International Airport,SYR
+136,Clarks Point Airport,CLP
+137,Sege Airport,EGM
+138,Naha Airport,OKA
+139,Bousso Airport,OUT
+140,Treviso-Sant'Angelo Airport,TSF
+141,North Fork Valley Airport,WPO
+142,Amchitka Army Airfield,AHT
+143,Nakhon Si Thammarat Airport,NST
+144,Houari Boumediene Airport,ALG
+145,Anaktuvuk Pass Airport,AKP
+146,Sault Ste Marie Airport,YAM
+147,Ar Horqin Airport,AEQ
+148,Tacuarembo Airport,TAW
+149,El Daein Airport,ADV
+150,Great Bend Municipal Airport,GBD
+151,Ramstein Air Base,RMS
+152,Yalinga Airport,AIG
+153,Siwo Airport,EAE
+154,McMinn County Airport,MMI
+155,Gbangbatok Airport,GBK
+156,Kissidougou Airport,KSI
+157,Bogashevo Airport,TOF
+158,Burley Municipal Airport,BYI
+159,Pueblo Memorial Airport,PUB
+160,Salt Lake City International Airport,SLC
+161,Tehachapi Municipal Airport,TSP
+162,Balurghat Airport,RGH
+163,Hultsfred Airport,HLF
+164,Ulgii Mongolei Airport,ULG
+165,Oakdale Airport,ODC
+166,Île des Pins Airport,ILP
+167,Boca Raton Airport,BCT
+168,Tho Xuan Airport,THD
+169,Guadalupe Airport,GDP
+170,Borama Airport,BXX
+171,Feijó Airport,FEJ
+172,Gerrard Smith International Airport,CYB
+173,McArthur River Mine Airport,MCV
+174,Forrest City Municipal Airport,FCY
+175,Phrae Airport,PRH
+176,Manihiki Island Airport,MHX
+177,Gulfport Biloxi International Airport,GPT
+178,Kamusi Airport,KUY
+179,Albany International Airport,ALB
+180,Carpentaria Downs Airport,CFP
+181,Delta Downs Airport,DDN
+182,Imphal Airport,IMF
+183,Kitsissuarsuit Heliport,QJE
+184,Antonio Nery Juarbe Pol Airport,ARE
+185,Pontes e Lacerda Airport,LCB
+186,Al Maktoum International Airport,DWC
+187,Rogers Municipal Airport-Carter Field,ROG
+188,Lehigh Valley International Airport,ABE
+189,Four Corners Regional Airport,FMN
+190,Simberi Airport,NIS
+191,Mingan Airport,YLP
+192,Matari Airport,IRP
+193,Khwahan Airport,KWH
+194,Rapid City Regional Airport,RAP
+195,Wake Island Airfield,AWK
+196,Arctic Village Airport,ARC
+197,Kadapa Airport,CDP
+198,Gove Airport,GOV
+199,Dillon's Bay Airport,DLY
+200,Kebar Airport,KEQ
+201,Fera/Maringe Airport,FRE
+202,Savannakhet Airport,ZVK
+203,Al Baha Airport,ABT
+204,Poitiers-Biard Airport,PIS
+205,Burwash Airport,YDB
+206,Makin Island Airport,MTK
+207,"Taranto-Grottaglie ""Marcello Arlotta"" Airport",TAR
+208,Ballalae Airport,BAS
+209,Kao Airport,KAZ
+210,Muş Airport,MSR
+211,Thief River Falls Regional Airport,TVF
+212,Kratie Airport,KTI
+213,Shangrao Sanqingshan Airport,SQD
+214,Rincon De Los Sauces Airport,RDS
+215,Hughenden Airport,HGD
+216,Urgench Airport,UGC
+217,Dr. Arturo H. Illia Airport,GNR
+218,Maranggo Airport,TQQ
+219,Grand-Santi Airport,GSI
+220,Lewiston Nez Perce County Airport,LWS
+221,Franz Josef Aerodrome,WHO
+222,São Joaquim Airport,0
+223,Boswell Bay Airport,BSW
+224,Sila Airport,SIL
+225,Cape Lisburne LRRS Airport,LUR
+226,Galion Municipal Airport,GQQ
+227,South Goulburn Is Airport,GBL
+228,El Dorado International Airport,BOG
+229,Saskatoon John G. Diefenbaker International Airport,YXE
+230,Sherman Army Air Field,FLV
+231,Belgorod International Airport,EGO
+232,Cologne Bonn Airport,CGN
+233,Basongo Airport,BAN
+234,Kadhdhoo Airport,KDO
+235,Sindhri Tharparkar Airport,MPD
+236,Debepare Airport,DBP
+237,Cagliari Elmas Airport,CAG
+238,San Julian Air Base,SNJ
+239,Hamilton Island Airport,HTI
+240,Can Tho International Airport,VCA
+241,Presidente Juscelino Kubistschek International Airport,BSB
+242,Montgomery Regional (Dannelly Field) Airport,MGM
+243,Port Harcourt International Airport,PHC
+244,Stephenville Clark Regional Airport,SEP
+245,Koltsovo Airport,SVX
+246,North Bay Jack Garland Airport,YYB
+247,Grant County Airport,SVC
+248,Abau Airport,ABW
+249,Podkamennaya Tunguska Airport,TGP
+250,Verona Villafranca Airport,VRN
+251,Kamulai Airport,KAQ
+252,Alberto Alcolumbre Airport,MCP
+253,Frans Kaisiepo Airport,BIK
+254,Platinum Airport,PTU
+255,Brig. Lysias Augusto Rodrigues Airport,CLN
+256,Fakahina Airport,FHZ
+257,Beirut Rafic Hariri International Airport,BEY
+258,Florø Airport,FRO
+259,Antonio Maceo International Airport,SCU
+260,Lawrenceville Brunswick Municipal Airport,LVL
+261,Presidente Castro Pinto International Airport,JPA
+262,Kongolo Airport,KOO
+263,Boigu Airport,GIC
+264,Manti-Ephraim Airport,NTJ
+265,Annette Island Airport,ANN
+266,Capitan D Daniel Vazquez Airport,ULA
+267,Animas Air Park,AMK
+268,Perpignan-Rivesaltes (Llabanère) Airport,PGF
+269,Kodiak Municipal Airport,KDK
+270,Lake County Airport,LXV
+271,Porgera Airport,RGE
+272,Reivilo Airport,RVO
+273,Inyokern Airport,IYK
+274,Keetmanshoop Airport,KMP
+275,Interlaken Air Base,ZIN
+276,Karlstad Airport,KSD
+277,Adareil Airport,AEE
+278,Cadete FAP Guillermo Del Castillo Paredes Airport,TPP
+279,Jequié Airport,JEQ
+280,Hay Airport,HXX
+281,Berlevåg Airport,BVG
+282,Polk Army Air Field,POE
+283,Santa Ana Airport,NNB
+284,Stony River 2 Airport,SRV
+285,Khoram Abad Airport,KHD
+286,Juscelino Kubitscheck Airport,TFL
+287,Chacarita Airport,JAP
+288,Patrocínio Airport,0
+289,Northeast Alabama Regional Airport,GAD
+290,Maramag Airport,XMA
+291,Renmark Airport,RMK
+292,Staniel Cay Airport,TYM
+293,Afonso Pena Airport,CWB
+294,Ulusaba Airport,ULX
+295,Cocos (Keeling) Islands Airport,CCK
+296,Rehoboth Airport,REH
+297,Querétaro Intercontinental Airport,QRO
+298,Hólmavík Airport,HVK
+299,Guilin Liangjiang International Airport,KWL
+300,Mbuji Mayi Airport,MJM
+301,Öndörkhaan Airport,UNR
+302,Gamarmalamo Airport,GLX
+303,Konarak Airport,ZBR
+304,Orestes Acosta Airport,MOA
+305,Aasiaat Airport,JEG
+306,Maron Island Airport,MNP
+307,Palmdale Regional/USAF Plant 42 Airport,PMD
+308,Garaina Airport,GAR
+309,Sohag International Airport,HMB
+310,Tosontsengel Airport,TNZ
+311,Anderson Municipal Darlington Field,AID
+312,Kangirsuk Airport,YKG
+313,Yangon International Airport,RGN
+314,Argyle Downs Airport,AGY
+315,La Môle Airport,LTT
+316,Semnan Municipal Airport,SNX
+317,Dr.Juan C. Angara Airport,BQA
+318,Pellston Regional Airport of Emmet County Airport,PLN
+319,Chacarita Airport,JAP
+320,Bhojpur Airport,BHP
+321,Arvidsjaur Airport,AJR
+322,Garachiné Airport,GHE
+323,Butler Co Regional Airport - Hogan Field,HAO
+324,Batavia Downs Airport,BVW
+325,Belgorod International Airport,EGO
+326,Yerington Municipal Airport,EYR
+327,Grand Central Airport,GCJ
+328,General Mitchell International Airport,MKE
+329,Avon Park Executive Airport,AVO
+330,Kerau Airport,KRU
+331,Gander International Airport,YQX
+332,Pasni Airport,PSI
+333,Bucholz Army Air Field,KWA
+334,Guasopa Airport,GAZ
+335,Skopje Alexander the Great Airport,SKP
+336,Senador Nilo Coelho Airport,PNZ
+337,Muko Muko Airport,MPC
+338,Minsk National Airport,MSQ
+339,Bario Airport,BBN
+340,Copenhagen Kastrup Airport,CPH
+341,Platinum Airport,PTU
+342,Deputatskiy Airport,DPT
+343,Dadu Airport,DDU
+344,Turin Airport,TRN
+345,Ratanakiri Airport,RBE
+346,Stockholm-Arlanda Airport,ARN
+347,Bambari Airport,BBY
+348,Pangkal Pinang (Depati Amir) Airport,PGK
+349,Lethem Airport,LTM
+350,Mountain Home Air Force Base,MUO
+351,Fuerteventura Airport,FUE
+352,Raleigh County Memorial Airport,BKW
+353,March ARB Airport,RIV
+354,Fane Airport,FNE
+355,Hurghada International Airport,HRG
+356,Renton Municipal Airport,RNT
+357,Rafaela Airport,RAF
+358,Madison Municipal Airport,XMD
+359,Visalia Municipal Airport,VIS
+360,Búðardalur Airport,BQD
+361,Akiachak Airport,KKI
+362,Banning Municipal Airport,BNG
+363,Idre Airport,IDB
+364,Sam Mbakwe International Airport,QOW
+365,Miyazaki Airport,KMI
+366,Apataki Airport,APK
+367,Mount Swan Airport,MSF
+368,Perry Island Seaplane Base,PYL
+369,Pine Cay Airport,PIC
+370,Lake Cumberland Regional Airport,SME
+371,Santiago Vila Airport,GIR
+372,John F Kennedy International Airport,JFK
+373,San Luis Valley Regional Bergman Field,ALS
+374,Owatonna Degner Regional Airport,OWA
+375,Grand-Santi Airport,GSI
+376,Kitsissuarsuit Heliport,QJE
+377,Mount Cook Airport,MON
+378,Charlevoix Airport,YML
+379,Afutara Aerodrome,AFT
+380,Sesriem Airstrip,SZM
+381,Sde Dov Airport,SDV
+382,Cañal Bajo Carlos - Hott Siebert Airport,ZOS
+383,Juscelino Kubitscheck Airport,TFL
+384,Brindisi – Salento Airport,BDS
+385,Westerly State Airport,WST
+386,Santa Vitória do Palmar Airport,CTQ
+387,Beaufort County Airport,BFT
+388,Sahabat [Sahabat 16] Airport,SXS
+389,Sematan Airport,BSE
+390,Fort Resolution Airport,YFR
+391,Alashankou Bole (Bortala) airport,BPL
+392,Ørland Airport,OLA
+393,Suprunovka Airport,PLV
+394,Kamalpur Airport,IXQ
+395,Grayling Airport,KGX
+396,Cap FAP David Abenzur Rengifo International Airport,PCL
+397,Pine Cay Airport,PIC
+398,Gannan Xiahe Airport,GXH
+399,Gusap Airport,GAP
+400,Boma Airport,BOA
+401,Zenata – Messali El Hadj Airport,TLM
+402,Manitowoc County Airport,MTW
+403,Sunan Shuofang International Airport,WUX
+404,Bukhara Airport,BHK
+405,Kerau Airport,KRU
+406,Portland International Jetport Airport,PWM
+407,Theodore Airport,TDR
+408,Pampa Guanaco Airport,DPB
+409,Olyokminsk Airport,OLZ
+410,Chongqing Jiangbei International Airport,CKG
+411,Quirindi Airport,UIR
+412,Everett-Stewart Regional Airport,UCY
+413,Dargaville Aerodrome,DGR
+414,Bata Airport,BSG
+415,Parintins Airport,PIN
+416,Bundaberg Airport,BDB
+417,Ordu Giresun Airport,OGU
+418,Smithers Airport,YYD
+419,Gomez Nino Apiay Air Base,API
+420,King Khaled Air Base,KMX
+421,Kirksville Regional Airport,IRK
+422,Araracuara Airport,ACR
+423,Berbérati Airport,BBT
+424,Carmen De Patagones Airport,CPG
+425,Enarotali Airport,EWI
+426,San Ignacio de Moxos Airport,SNM
+427,Wanuma Airport,WNU
+428,Pathankot Airport,IXP
+429,Sármellék International Airport,SOB
+430,Seletar Airport,XSP
+431,Wagny Airport,WGY
+432,Hawkins Field,HKS
+433,Maewo-Naone Airport,MWF
+434,Kooddoo Airport,GKK
+435,Maria Reiche Neuman Airport,NZC
+436,Dera Ismael Khan Airport,DSK
+437,Birsa Munda Airport,IXR
+438,Cochin International Airport,COK
+439,Okayama Airport,OKJ
+440,Great Bear Lake Airport,DAS
+441,Fuerte Olimpo Airport,OLK
+442,Guerrero Negro Airport,GUB
+443,Dole-Tavaux Airport,DLE
+444,Koltsovo Airport,SVX
+445,Jumla Airport,JUM
+446,La Florida Airport,TCO
+447,Playa Grande Airport,PKJ
+448,Cat Lake Airport,YAC
+449,Bayankhongor Airport,BYN
+450,Stockholm-Bromma Airport,BMA
+451,Smiths Falls-Montague (Russ Beach) Airport,YSH
+452,Buffalo Niagara International Airport,BUF
+453,Haugesund Airport,HAU
+454,Penggung Airport,CBN
+455,Twentynine Palms Airport,TNP
+456,Dundo Airport,DUE
+457,Los Menucos Airport,LMD
+458,Capitan D Daniel Vazquez Airport,ULA
+459,Petrozavodsk Airport,PES
+460,Metro Field,MTX
+461,Valkenburg Naval Air Base,LID
+462,Pakhokku Airport,PKK
+463,Wadi Ain Airport,WDA
+464,Long Bawan Airport,LBW
+465,Sievierodonetsk Airport,SEV
+466,Brainerd Lakes Regional Airport,BRD
+467,Dansville Municipal Airport,DSV
+468,King Khaled Air Base,KMX
+469,Simara Airport,SIF
+470,Qinhuangdao Beidaihe Airport,BPE
+471,Laverton Airport,LVO
+472,Maquinchao Airport,MQD
+473,Ciudad Mante National Airport,MMC
+474,Kanainj Airport,KNE
+475,Two Harbors Amphibious Terminal,TWH
+476,Guadalupe Airport,GDP
+477,Thornhill Air Base,GWE
+478,Newcastle Airport,NTL
+479,Lamar Municipal Airport,LAA
+480,Itacoatiara Airport,ITA
+481,Tsushima Airport,TSJ
+482,Wanganui Airport,WAG
+483,Leopoldina Airport,LEP
+484,Cowell Airport,CCW
+485,Beihai Airport,BHY
+486,St Clair County Airport,PLR
+487,Kerteh Airport,KTE
+488,Cabinda Airport,CAB
+489,Oceana Naval Air Station,NTU
+490,Montgomery-Gibbs Executive Airport,MYF
+491,Sasstown Airport,SAZ
+492,Norilsk-Alykel Airport,NSK
+493,RAF Honington,BEQ
+494,Adareil Airport,AEE
+495,Kanas Airport,KJI
+496,Kōchi Ryōma Airport,KCZ
+497,Zaraza Airport,ZRZ
+498,Morgantown Municipal Walter L. Bill Hart Field,MGW
+499,Prince Abdulmohsin Bin Abdulaziz Airport,YNB
+500,Shannon Airport,SNN
+501,John H Batten Airport,RAC
+502,Suavanao Airport,VAO
+503,Coban Airport,CBV
+504,Rogue Valley International Medford Airport,MFR
+505,Izumo Airport,IZO
+506,Ghazni Airport,GZI
+507,Whangarei Airport,WRE
+508,Alberni Valley Regional Airport,YPB
+509,Victoria Reservoir Seaplane Base,KDW
+510,Efogi Airport,EFG
+511,Azaza Airport,GSU
+512,Husum-Schwesing Airport,QHU
+513,Mossendjo Airport,MSX
+514,Ingham Airport,IGH
+515,Böblingen Flugfeld,PHM
+516,Bob Hope Airport,BUR
+517,King Island Airport,KNS
+518,Provo Municipal Airport,PVU
+519,Araxos Airport,GPA
+520,Palm Beach Seaplane Base,LBH
+521,Ağrı Airport,AJI
+522,Dublin Airport,DUB
+523,Xi'an Xianyang International Airport,XIY
+524,Tullahoma Regional Arpt/Wm Northern Field,THA
+525,Silver Creek Airport,SVK
+526,San Bernardino International Airport,SBD
+527,Penang International Airport,PEN
+528,Capitán Av. German Quiroga G. Airport,SRJ
+529,Dongsha Island Airport,DSX
+530,Hasvik Airport,HAA
+531,Maiana Airport,MNK
+532,Gulu Airport,ULU
+533,Rangiroa Airport,RGI
+534,Kili Airport,KIO
+535,Kédougou Airport,KGG
+536,Annemasse Airport,QNJ
+537,Manokotak Airport,KMO
+538,Campbeltown Airport,CAL
+539,Marion County Regional Airport,FLP
+540,South Arkansas Regional At Goodwin Field,ELD
+541,Shikarpur Airport,SWV
+542,Quad City International Airport,MLI
+543,Balakovo Airport,BWO
+544,Andrés Sabella Gálvez International Airport,ANF
+545,Vancouver International Airport,YVR
+546,Caledonia County Airport,LLX
+547,Jeju International Airport,CJU
+548,Greene County Airport,WAY
+549,Luhansk International Airport,VSG
+550,Makung Airport,MZG
+551,Savannakhet Airport,ZVK
+552,Tancredo Thomas de Faria Airport,GPB
+553,Uttaradit Airport,UTR
+554,Omega Airport,OMG
+555,Bakouma Airport,BMF
+556,Aubenas-Ardèche Méridional Airport,OBS
+557,Nyurba Airport,NYR
+558,Novgorod Airport,NVR
+559,Nacala Airport,MNC
+560,Tongareva Airport,PYE
+561,Beersheba (Teyman) Airport,BEV
+562,"Svalbard Airport, Longyear",LYR
+563,Waterbury Oxford Airport,OXC
+564,Mamburao Airport,MBO
+565,Arba Minch Airport,AMH
+566,Cliff Hatfield Memorial Airport,CLR
+567,Easton State Airport,ESW
+568,Kalay Airport,KMV
+569,Ndjili International Airport,FIH
+570,Fort McMurray / Mildred Lake Airport,NML
+571,Alberto Delgado Airport,TND
+572,Bekily Airport,OVA
+573,Boang Airport,BOV
+574,Reko Diq Airport,REQ
+575,Ukiah Municipal Airport,UKI
+576,General Leite de Castro Airport,RVD
+577,Port St Johns Airport,JOH
+578,Antonio Nery Juarbe Pol Airport,ARE
+579,Cross Lake (Charlie Sinclair Memorial) Airport,YCR
+580,Param Airport,PPX
+581,Chesterfield Inlet Airport,YCS
+582,Annemasse Airport,QNJ
+583,Begumpet Airport,BPM
+584,Port Hedland International Airport,PHE
+585,Mc Clellan Airfield,MCC
+586,Gustavus Airport,GST
+587,Banff Airport,YBA
+588,Tatakoto Airport,TKV
+589,Maximo Gomez Airport,AVI
+590,Turin Airport,TRN
+591,Zhangjiakou Ningyuan Airport,ZQZ
+592,Pdte. Carlos Ibañez del Campo Airport,PUQ
+593,Ladysmith Airport,LAY
+594,Tilin Airport,TIO
+595,Trunojoyo Airport,SUP
+596,North Lakhimpur Airport,IXI
+597,Los Cabos International Airport,SJD
+598,Yes Bay Lodge Seaplane Base,WYB
+599,Pisa International Airport,PSA
+600,Akjoujt Airport,AJJ
+601,Agropecuária Castanhais Airport,ITI
+602,Reus Air Base,REU
+603,Sei Bati Airport,TJB
+604,Mogilev Airport,MVQ
+605,Newport Municipal Airport,ONP
+606,Boalang Airport,BJG
+607,Presidente Prudente Airport,PPB
+608,Kish International Airport,KIH
+609,Pilot Station Airport,PQS
+610,Sparta Fort Mc Coy Airport,CMY
+611,Velikiye Luki Airport,VLU
+612,Bou Saada Airport,BUJ
+613,Lac Gagnon Seaplane Base,YGA
+614,Blakely Island Airport,BYW
+615,Akwa Ibom International Airport,QUO
+616,Meadows Field,BFL
+617,Sayaboury Airport,ZBY
+618,Koggala Airport,KCT
+619,Kyaukpyu Airport,KYP
+620,Zaysan Airport,SZI
+621,Southwest Wyoming Regional Airport,RKS
+622,Sugimanuru Airport,RAQ
+623,Napperby Airport,NPP
+624,Lac Brochet Airport,XLB
+625,Jaime Gonzalez Airport,CFG
+626,Benguera Island Airport,BCW
+627,Alexander Bay Airport,ALJ
+628,Alagoinhas Airport,QGS
+629,St Jean Airport,YJN
+630,Héroes De Malvinas Airport,TDL
+631,Alldays Airport,ADY
+632,Tynda Airport,TYD
+633,Mehrabad International Airport,THR
+634,Front Royal Warren County Airport,FRR
+635,Huehuetenango Airport,HUG
+636,Huntingburg Airport,HNB
+637,Concórdia Airport,CCI
+638,Wenshan Puzhehei Airport,WNH
+639,Stockholm Airport,SMP
+640,Chenega Bay Airport,NCN
+641,Chilliwack Airport,YCW
+642,San Pedro Airport,BZA
+643,Viru Harbour Airstrip,VIU
+644,Rock Sound Airport,RSD
+645,Bydgoszcz Ignacy Jan Paderewski Airport,BZG
+646,Kearney Regional Airport,EAR
+647,Kitkatla Seaplane Base,YKK
+648,Maquehue Airport,PZS
+649,Clinton County Airport,PLB
+650,Itokama Airport,ITK
+651,Golden Triangle Regional Airport,GTR
+652,Puerto Princesa Airport,PPS
+653,Pangborn Memorial Airport,EAT
+654,Namtu Airport,NMT
+655,Doany Airport,DOA
+656,Wallal Airport,WLA
+657,Los Menucos Airport,LMD
+658,Fulton County Airport Brown Field,FTY
+659,Al Dhafra Air Base,DHF
+660,Acadiana Regional Airport,ARA
+661,Stavanger Airport Sola,SVG
+662,Iwo Jima Airport,IWO
+663,Gustaf III Airport,SBH
+664,Platinum Airport,PTU
+665,Ilimanaq Heliport,XIQ
+666,Aktion National Airport,PVK
+667,Kikori Airport,KRI
+668,Ponta do Ouro Airport,PDD
+669,Khost Airport,KHT
+670,Bremen Airport,BRE
+671,Qiemo Yudu Airport,IQM
+672,Breiðdalsvík Airport,BXV
+673,Magdalena Airport,MGD
+674,Rock Hill - York County Airport,RKH
+675,Schönhagen Airport,QXH
+676,Tasiujaq Airport,YTQ
+677,Telegraph Creek Airport,YTX
+678,Illaga Airport,ILA
+679,Talagi Airport,ARH
+680,Frank Wiley Field,MLS
+681,Tessenei Airport,TES
+682,Yariguíes Airport,EJA
+683,Porterville Municipal Airport,PTV
+684,Minot International Airport,MOT
+685,Brigadeiro Lysias Rodrigues Airport,PMW
+686,Toronto/Oshawa Executive Airport,YOO
+687,Livermore Municipal Airport,LVK
+688,Beverley Springs Airport,BVZ
+689,Pangoa Airport,PGB
+690,Santo Ângelo Airport,GEL
+691,Mörön Airport,MXV
+692,Municipal Bom Futuro Airport,LVR
+693,Gan International Airport,GAN
+694,Catania-Fontanarossa Airport,CTA
+695,Timişoara Traian Vuia Airport,TSR
+696,Torokina Airport,TOK
+697,Faaite Airport,FAC
+698,Iligan Airport,IGN
+699,Barreiras Airport,BRA
+700,Stockholm Skavsta Airport,NYO
+701,Prieska Airport,PRK
+702,Ajaccio-Napoléon Bonaparte Airport,AJA
+703,28 de Noviembre Airport,RYO
+704,Adolino Bedin Regional Airport,SMT
+705,Coalinga Airport,CLG
+706,Rocha Airport,RCH
+707,Matão Airport,0
+708,Lake Cumberland Regional Airport,SME
+709,Monywar Airport,NYW
+710,Dajarra Airport,DJR
+711,Kangra Airport,DHM
+712,Karoola Airport,KXR
+713,Altoona Blair County Airport,AOO
+714,Dorado Beach Airport,DDP
+715,Godthaab / Nuuk Airport,GOH
+716,Teniente Col Carmelo Peralta Airport,CIO
+717,Caransebeş Airport,CSB
+718,Tinboli Airport,TCK
+719,Tonu Airport,TON
+720,Temora Airport,TEM
+721,Marshall Don Hunter Sr Airport,MLL
+722,Antsalova Airport,WAQ
+723,Dalton Municipal Airport,DNN
+724,Currillo Airport,CUI
+725,Volgograd International Airport,VOG
+726,Governador José Richa Airport,LDB
+727,Siglufjörður Airport,SIJ
+728,Roberval Airport,YRJ
+729,Shoreham Airport,ESH
+730,Zabré Airport,XZA
+731,North Spirit Lake Airport,YNO
+732,Timimoun Airport,TMX
+733,Anuradhapura Air Force Base,ACJ
+734,Araraquara Airport,AQA
+735,Squamish Airport,YSE
+736,Loreto International Airport,LTO
+737,Gilgal Airport,GGL
+738,Griffith Airport,GFF
+739,Washington Dulles International Airport,IAD
+740,Goya Airport,OYA
+741,Tagula Airport,TGL
+742,DuBois Regional Airport,DUJ
+743,Talagi Airport,ARH
+744,Zahedan International Airport,ZAH
+745,Val-d'Or Airport,YVO
+746,Laconia Municipal Airport,LCI
+747,Koumala Airport,KOL
+748,Jaluit Airport,UIT
+749,Galbraith Lake Airport,GBH
+750,Yampa Valley Airport,HDN
+751,Wakunai Airport,WKN
+752,Adıyaman Airport,ADF
+753,Departi Parbo Airport,KRC
+754,Lakefront Airport,NEW
+755,Williams Lake Airport,YWL
+756,Canobie Airport,CBY
+757,Chakcharan Airport,CCN
+758,Cabo Rojo Airport,CBJ
+759,Sioux Gateway Col. Bud Day Field,SUX
+760,Donaldson Field Airport,GDC
+761,Katiola Airport,KTC
+762,Catamarca Airport,CTC
+763,Sehulea Airport,SXH
+764,Mendeleyevo Airport,DEE
+765,Dupage Airport,DPA
+766,Greenville Sinoe Airport,SNI
+767,Aumo Airport,AUV
+768,Belaya Gora Airport,BGN
+769,Grand Bahama International Airport,FPO
+770,Savonlinna Airport,SVL
+771,Mount Aue Airport,UAE
+772,Vung Tau Airport,VTG
+773,Saransk Airport,SKX
+774,Colatina Airport,QCH
+775,Mitzic Airport,MZC
+776,Collins Bay Airport,YKC
+777,Elcho Island Airport,ELC
+778,Nanki Shirahama Airport,SHM
+779,Donaldson Airport,YAU
+780,Bar River Airport,YEB
+781,Jamba Airport,JMB
+782,Roundup Airport,RPX
+783,Minden-Tahoe Airport,MEV
+784,Pajala Airport,PJA
+785,Caye Caulker Airport,CUK
+786,Kherson International Airport,KHE
+787,Huangyan Luqiao Airport,HYN
+788,Quonset State Airport,NCO
+789,Umeå Airport,UME
+790,Jorge Newbery Airpark,AEP
+791,Sardeh Band Airport,SBF
+792,Yan'an Ershilipu Airport,ENY
+793,Geladi Airport,GLC
+794,Obano Airport,OBD
+795,Kissimmee Gateway Airport,ISM
+796,Destin-Ft Walton Beach Airport,VPS
+797,Dupage Airport,DPA
+798,Al Ghaidah International Airport,AAY
+799,Rumbek Airport,RBX
+800,Afyon Airport,AFY
+801,Flagstaff Pulliam Airport,FLG
+802,Park Rapids Municipal Konshok Field,PKD
+803,Santana do Livramento Airport,LVB
+804,Efogi Airport,EFG
+805,Ndalatandos Airport,NDF
+806,Shahbaz Air Base,JAG
+807,Toulouse-Blagnac Airport,TLS
+808,Belluno Airport,BLX
+809,Hesa Airport,IFH
+810,Tunta Airport,KBN
+811,Ebolowa Airport,EBW
+812,La Gomera Airport,GMZ
+813,Princeton Municipal Airport,PNN
+814,Førde Airport,FDE
+815,Lompoc Airport,LPC
+816,Valladolid Airport,VLL
+817,Squamish Airport,YSE
+818,Hudsons Hope Airport,YNH
+819,Milano Linate Airport,LIN
+820,Murrin Murrin Airport,WUI
+821,Emden Airport,EME
+822,Blytheville Municipal Airport,HKA
+823,Farnborough Airport,FAB
+824,Tupelo Regional Airport,TUP
+825,Yan'an Ershilipu Airport,ENY
+826,Auburn Lewiston Municipal Airport,LEW
+827,Piloto Civil N. Fernández Airport,RGL
+828,Sui Airport,SUL
+829,Villacoublay-Vélizy (BA 107) Air Base,VIY
+830,Grosseto Air Base,GRS
+831,Cap Manuel Niño International Airport,CHX
+832,Manihiki Island Airport,MHX
+833,Ontario International Airport,ONT
+834,Kiman Airport,KMM
+835,Moises Benzaquen Rengifo Airport,YMS
+836,Southern Seaplane Airport,BCS
+837,Adana Airport,ADA
+838,St. Anthony Airport,YAY
+839,Rampart Airport,RMP
+840,Chania International Airport,CHQ
+841,Cochin International Airport,COK
+842,Bundaberg Airport,BDB
+843,Fleetlands Heliport,PME
+844,Long Island Mac Arthur Airport,ISP
+845,Tabuaeran Island Airport,TNV
+846,Dyess Air Force Base,DYS
+847,Chan Gurney Municipal Airport,YKN
+848,Alonso Valderrama Airport,CTD
+849,Jeon Ju Airport (G-703),CHN
+850,Memorial Field,HOT
+851,Gloucestershire Airport,GLO
+852,Lee Airport,ANP
+853,Miami International Airport,MIA
+854,Zhengzhou Xinzheng International Airport,CGO
+855,Gaya Airport,GAY
+856,Kaghau Airport,KGE
+857,Bahawalpur Airport,BHV
+858,Lonorore Airport,LNE
+859,Jiansanjiang Airport,JSJ
+860,Pirineus - la Seu d'Urgel Airport,LEU
+861,Wolter Monginsidi Airport,KDI
+862,Pulkovo Airport,LED
+863,Comandante FAP German Arias Graziani Airport,ATA
+864,Coronel Enrique Soto Cano Air Base,XPL
+865,Amboseli Airport,ASV
+866,Auckland International Airport,AKL
+867,Taku Lodge Seaplane Base,TKL
+868,Garça Airport,0
+869,Kitadaito Airport,KTD
+870,Skorpion Mine Airport,RHN
+871,Miley Memorial Field,BPI
+872,Jenpeg Airport,ZJG
+873,Limeira Airport,QGB
+874,Ayr Airport,AYR
+875,Ilimanaq Heliport,XIQ
+876,Orapa Airport,ORP
+877,Rose Bay Seaplane Base,RSE
+878,Griffith Airport,GFF
+879,Mandera Airport,NDE
+880,Letfotar Airport,MOM
+881,Westfield-Barnes Regional Airport,BAF
+882,Grundarfjörður Airport,GUU
+883,Dickinson Theodore Roosevelt Regional Airport,DIK
+884,Lindi Airport,LDI
+885,Orlando Sanford International Airport,SFB
+886,Banjul International Airport,BJL
+887,Jalalabad Airport,JAA
+888,Polgolla Reservoir Seaplane Base,KDZ
+889,Tunoshna Airport,IAR
+890,West Point Village Seaplane Base,KWP
+891,Kabwum,KBM
+892,Siwo Airport,EAE
+893,Chilliwack Airport,YCW
+894,Golfito Airport,GLF
+895,EuroAirport Basel-Mulhouse-Freiburg Airport,BSL
+896,Yangambi Airport,YAN
+897,Salamanca Airport,SLM
+898,Merville-Calonne Airport,HZB
+899,Yakushima Airport,KUM
+900,Funter Bay Seaplane Base,FNR
+901,Moron Air Base,OZP
+902,Tripoli International Airport,TIP
+903,Pattaya Airpark,PYX
+904,Mohamed Boudiaf International Airport,CZL
+905,Crater Lake-Klamath Regional Airport,LMT
+906,Cabinda Airport,CAB
+907,El Plumerillo Airport,MDZ
+908,McChord Air Force Base,TCM
+909,Portland Hillsboro Airport,HIO
+910,Campbeltown Airport,CAL
+911,Van Nuys Airport,VNY
+912,Guacamayas Airport,GCA
+913,Nejran Airport,EAM
+914,TSTC Waco Airport,CNW
+915,Vagar Airport,FAE
+916,Rif Airport,OLI
+917,Mitzic Airport,MZC
+918,Rubelsanto Airport,RUV
+919,Matsu Beigan Airport,MFK
+920,Pilot Station Airport,PQS
+921,Santos Dumont Airport,SDU
+922,Geneina Airport,EGN
+923,Utirik Airport,UTK
+924,Bao'anying Airport,PZI
+925,Memorial Field,HOT
+926,Bronson Creek Airport,YBM
+927,Natitingou Airport,NAE
+928,Inverell Airport,IVR
+929,Valkenburg Naval Air Base,LID
+930,Davenport Municipal Airport,DVN
+931,Pobedilovo Airport,KVX
+932,Gazipaşa Airport,GZP
+933,Roanne-Renaison Airport,RNE
+934,Juanjui Airport,JJI
+935,Quetzalcóatl International Airport,NLD
+936,Leribe Airport,LRB
+937,Jose De San Martin Airport,JSM
+938,Hawkins Field,HKS
+939,Adolino Bedin Regional Airport,SMT
+940,Ticantiki Airport,TJC
+941,Ficksburg Sentraoes Airport,FCB
+942,Ozark Regional Airport,WMH
+943,Key Lake Airport,YKJ
+944,Vinh Long Airfield,XVL
+945,Halali Airport,HAL
+946,Mudanjiang Hailang International Airport,MDG
+947,Northway Airport,ORT
+948,Benina International Airport,BEN
+949,Porto Santo Airport,PXO
+950,Lamen Bay Airport,LNB
+951,Julius Nyerere International Airport,DAR
+952,Hill City Municipal Airport,HLC
+953,Gaoua Airport,XGA
+954,Gandajika Airport,GDJ
+955,Gallup Municipal Airport,GUP
+956,Peppimenarti Airport,PEP
+957,Paulatuk (Nora Aliqatchialuk Ruben) Airport,YPC
+958,Bubaque Airport,BQE
+959,Leigh Creek Airport,LGH
+960,Aur Island Airport,AUL
+961,Talladega Municipal Airport,ASN
+962,Kambalda Airport,KDB
+963,Banff Airport,YBA
+964,Vidalia Regional Airport,VDI
+965,Bontang Airport,BXT
+966,Jordan Airport,JDN
+967,Holešov Airport,GTW
+968,Lefkoniko Airport,GEC
+969,Yaguara Airport,AYG
+970,Hatbox Field,HAX
+971,Yichang Sanxia Airport,YIH
+972,University Park Airport,SCE
+973,Solenzara (BA 126) Air Base,SOZ
+974,Porbandar Airport,PBD
+975,Long Xuyên Airport,XLO
+976,Sambava Airport,SVB
+977,McKinley National Park Airport,MCL
+978,Ipiranga Airport,IPG
+979,Alpine Airstrip,DQH
+980,Saskylakh Airport,SYS
+981,Moruya Airport,MYA
+982,Guajará-Mirim Airport,GJM
+983,Bongor Airport,OGR
+984,Sokcho (Mulchi Airfield) (G-407/K-50) Airport,SHO
+985,Ashley Municipal Airport,ASY
+986,Valan Airport,HVG
+987,Childress Municipal Airport,CDS
+988,Talagi Airport,ARH
+989,Malanje Airport,MEG
+990,Kosipe Airport,KSP
+991,Alderney Airport,ACI
+992,Walla Walla Regional Airport,ALW
+993,RAF Fairford,FFD
+994,Samedan Airport,SMV
+995,Yakutsk Airport,YKS
+996,Forrest City Municipal Airport,FCY
+997,Yengema Airport,WYE
+998,Outer Skerries Airport,OUK
+999,Boquira Airport,0
+1000,Dimapur Airport,DMU
